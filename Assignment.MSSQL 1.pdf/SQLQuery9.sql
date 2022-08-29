@@ -42,9 +42,9 @@ values
 
 insert into Customers
 values
-('0000001', N'Nguyễn Văn An', N'111, Nguyễn Trãi, Thanh Xuân, Hà Nội', '09347479234'),
+('0000001', N'Nguyễn Hồng Quang', N'111, Cầu Giay, Hà Nội', '09347479234'),
 ('0000002', N'Nguyễn Duy Quốc', N'135, Minh Khai, Bắc Từ Liêm, Hà Nội','03838328288'),
-('0000003', N'Hoàng Duy Quốc', N'131, Tân Lộc, Lộc Hà, Hà Tĩnh','09337324832');
+('0000003', N'Bùi Quang Đăng', N'131, Nam Phong, Nam Định','09337324832');
 
 insert into Orders(Id, OrderDate, CustomerId)
 values
